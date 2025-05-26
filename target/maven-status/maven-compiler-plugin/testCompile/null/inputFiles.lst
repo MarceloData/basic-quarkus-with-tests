@@ -1,0 +1,15 @@
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/GreetingResourceIT.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/GreetingResourceTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/GreetingServiceTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/MockGreetingService.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/StaticContentTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/interfaces/StereotypeTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/interfaces/TestTransactionalQuarkus.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/mocks/MockGreetingServiceTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/profiles/MockGreetingProfile.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/profiles/MultipleTagsTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/profiles/NoQuarkusProfileTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/profiles/NoTagsTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/profiles/Profiles.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/profiles/SingleTagTest.java
+/home/marcelo/Development/Java/projetos/basic-quarkus-with-tests/src/test/java/com/tests/spies/SpyGreetingServiceTest.java
